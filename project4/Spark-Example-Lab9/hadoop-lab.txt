@@ -1,0 +1,12 @@
+The file that you are currently reading is named "hadoop-lab.txt". We will be working with this file in the steps below.
+
+Open IntelliJ and select JDK 1.8 for the compiler.
+Create a command line Java project in IntelliJ.
+Name the project Spark-Example-Lab9.
+Right click the project and do the following to install the Spark library. Open Module Settings/Libraries/+/From Maven Enter org.apache.spark:spark-core_2.10:1.0.0
+
+OK/Apply/OK
+
+In the src directory, create a Java class named WordCounter.java in the package edu.cmu.andrew.userID.spark.example.java.wordcount.
+
+Copy the code below into WordCounter.java.

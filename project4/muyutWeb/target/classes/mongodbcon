@@ -1,0 +1,5 @@
+cluster0-shard-00-00.kbe6k.mongodb.net:27017
+cluster0-shard-00-01.kbe6k.mongodb.net:27017
+cluster0-shard-00-02.kbe6k.mongodb.net:27017
+
+mongodb://muyut:cmumuyut@cluster0-shard-00-00.kbe6k.mongodb.net:27017,cluster0-shard-00-01.kbe6k.mongodb.net:27017,cluster0-shard-00-02.kbe6k.mongodb.net:27017/test?w=majority&retryWrites=true&tls=true&authMechanism=SCRAM-SHA-1

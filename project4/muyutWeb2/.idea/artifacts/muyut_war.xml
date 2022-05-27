@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="muyut:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>muyut</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="muyut-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="muyut:war exploded" />
+    </root>
+  </artifact>
+</component>

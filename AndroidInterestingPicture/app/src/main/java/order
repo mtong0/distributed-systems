@@ -1,0 +1,10 @@
+1. onClick  ---   UI
+2. GetPicture.search --- UI
+3. BackgroundTask --- UI
+4. doInBackground --- helper
+5. Background.search --- helper
+6. getRemoteXML --- helper
+7. getRemoteImage --- helper
+8. doPostExecute --- UI
+9. pictureReady --- UI
+
